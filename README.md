@@ -25,7 +25,7 @@ This metadata is written to `tile_metadata.json` and will be consumed by the Qua
 
 Clone this repository and install dependencies:
 
-```bash
+bash
 git clone <repo-url>
 cd QuadTileScanner
 npm install
