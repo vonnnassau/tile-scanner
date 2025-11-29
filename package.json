@@ -9,9 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@lunapaint/tga-codec": "^0.2.0",
-    "tga": "^1.0.7",
-    "tga-js": "^1.1.1"
+    "tga": "^1.0.7"
   },
   "description": ""
 }
